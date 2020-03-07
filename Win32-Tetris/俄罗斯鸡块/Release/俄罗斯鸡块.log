@@ -1,0 +1,7 @@
+﻿  Tetris.c
+d:\documents collection\in college\俄罗斯鸡块\俄罗斯鸡块\tetris.c(109): warning C4098: “RowClear”:“void”函数返回值
+d:\documents collection\in college\俄罗斯鸡块\俄罗斯鸡块\tetris.c(468): warning C4552: ”+“: 未使用表达式结果
+d:\documents collection\in college\俄罗斯鸡块\俄罗斯鸡块\tetris.c(557): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\documents collection\in college\俄罗斯鸡块\俄罗斯鸡块\tetris.c(574): warning C4047: “函数”:“LPCWSTR”与“int”的间接级别不同
+d:\documents collection\in college\俄罗斯鸡块\俄罗斯鸡块\tetris.c(574): warning C4024: “LoadIconW”: 形参和实参 2 的类型不同
+  俄罗斯鸡块.vcxproj -> D:\documents collection\in college\俄罗斯鸡块\Release\俄罗斯鸡块.exe
